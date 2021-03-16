@@ -1,0 +1,4 @@
+-  👋 Olá, sou Lucas Lopes
+- 👀 Estou interessado em Ser um desenvolvedor java.
+- 🌱 Atualmente estou aprendendo java/spring
+- 📫 Como me encontrar: https://www.linkedin.com/in/lucas-lopes-lima-8ab1931b1/

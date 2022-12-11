@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A full stack developer from Blumenau,Brazil</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Angular and a little content about node**
+- 🌱 I’m currently learning **Spring Boot, Angular and a little about node**
 
 - 👨‍💻 All of my projects are available Here on GitHub
 

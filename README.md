@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A full stack developer from Blumenau,Brazil</h3>
 
-- 🌱 I’m currently learning **Spring Boot and Angular**
+- 🌱 I’m currently learning **PHP/Laravel**
 
 - 👨‍💻 All of my projects are available Here on GitHub
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **lucaslopesllima@gmail.com**
 
